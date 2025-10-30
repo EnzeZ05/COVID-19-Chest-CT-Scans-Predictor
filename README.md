@@ -2,8 +2,6 @@
 
 Supervised learning pipeline for classifying chest CT images into clinically relevant categories (e.g., COVID-19 vs. non-COVID). Includes concise data utilities, a readable PyTorch training loop, evaluation, and inference.
 
-> Paste this file as `README.md` at the repo root.
-
 ---
 
 ## Features
