@@ -253,16 +253,6 @@ __pycache__/
 
 ## License
 
-Add a `LICENSE` file (e.g., MIT). Update this section accordingly.
+MIT License
 
 ---
-
-## Citation
-
-When publishing results based on this codebase, please cite this repository. Add a BibTeX entry here once you create a release or DOI.
-
----
-
-## Acknowledgments
-
-Thanks to the PyTorch and torchvision communities. If you use public CT datasets, cite the original authors and follow their terms.
